@@ -1,0 +1,6 @@
+Data: 01/10/2018
+Medico Responsabile: Nicola Agresti
+Farmaco: aspirina
+Lunghezza terapia (in giorni): 3
+Numero dosi giornaliere: 1
+Quantità (in pastiglie): 2

@@ -1,0 +1,5 @@
+Codice paziente: AN02250221900VER
+Nome: Nicola
+Cognome: Agresti
+Data di nascita: 25/02/1900
+Luogo di nascita: Verona

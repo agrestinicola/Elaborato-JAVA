@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <notation:Diagram xmi:id="_lg99cL0kEeiEU9ia6Jmz9Q" type="UseCase" name="Use Case Diagram" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_lg99cb0kEeiEU9ia6Jmz9Q" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_lg99cr0kEeiEU9ia6Jmz9Q"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_lg99c70kEeiEU9ia6Jmz9Q" diagramKindId="org.eclipse.papyrus.uml.diagram.useCase">
+      <owner xmi:type="uml:Model" href="intensivecare.uml#_lgrCgL0kEeiEU9ia6Jmz9Q"/>
+    </styles>
+    <element xmi:type="uml:Model" href="intensivecare.uml#_lgrCgL0kEeiEU9ia6Jmz9Q"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_lhDdAL0kEeiEU9ia6Jmz9Q" type="PapyrusUMLActivityDiagram" name="Activity Diagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_lhDdAb0kEeiEU9ia6Jmz9Q" type="Activity_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_lhDdAr0kEeiEU9ia6Jmz9Q" type="Activity_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_lhDdA70kEeiEU9ia6Jmz9Q" type="Activity_KeywordLabel"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_lhDdBL0kEeiEU9ia6Jmz9Q" type="Activity_ParameterCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_lhDdBb0kEeiEU9ia6Jmz9Q"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_lhDdBr0kEeiEU9ia6Jmz9Q"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lhDdB70kEeiEU9ia6Jmz9Q"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_lhDdCL0kEeiEU9ia6Jmz9Q" type="Activity_PreconditionCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_lhDdCb0kEeiEU9ia6Jmz9Q"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_lhDdCr0kEeiEU9ia6Jmz9Q"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lhDdC70kEeiEU9ia6Jmz9Q"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_lhDdDL0kEeiEU9ia6Jmz9Q" type="Activity_PostconditionCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_lhDdDb0kEeiEU9ia6Jmz9Q"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_lhDdDr0kEeiEU9ia6Jmz9Q"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lhDdD70kEeiEU9ia6Jmz9Q"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_lhDdEL0kEeiEU9ia6Jmz9Q" type="Activity_ActivityNodeCompartment">
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lhDdEb0kEeiEU9ia6Jmz9Q"/>
+      </children>
+      <element xmi:type="uml:Activity" href="intensivecare.uml#_lhBn0L0kEeiEU9ia6Jmz9Q"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lhDdEr0kEeiEU9ia6Jmz9Q"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_lhDdE70kEeiEU9ia6Jmz9Q" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_lhDdFL0kEeiEU9ia6Jmz9Q"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_lhDdFb0kEeiEU9ia6Jmz9Q" diagramKindId="org.eclipse.papyrus.uml.diagram.activity">
+      <owner xmi:type="uml:Model" href="intensivecare.uml#_lgrCgL0kEeiEU9ia6Jmz9Q"/>
+    </styles>
+    <element xmi:type="uml:Activity" href="intensivecare.uml#_lhBn0L0kEeiEU9ia6Jmz9Q"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_lhIVgL0kEeiEU9ia6Jmz9Q" type="PapyrusUMLSequenceDiagram" name="Sequence Diagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_lhIVgb0kEeiEU9ia6Jmz9Q" type="Interaction_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_lhIVgr0kEeiEU9ia6Jmz9Q" type="Interaction_NameLabel"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_lhI8kL0kEeiEU9ia6Jmz9Q" type="Interaction_SubfragmentCompartment">
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lhI8kb0kEeiEU9ia6Jmz9Q"/>
+      </children>
+      <element xmi:type="uml:Interaction" href="intensivecare.uml#_lhHHYL0kEeiEU9ia6Jmz9Q"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lhI8kr0kEeiEU9ia6Jmz9Q"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_lhI8k70kEeiEU9ia6Jmz9Q" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_lhI8lL0kEeiEU9ia6Jmz9Q"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_lhI8lb0kEeiEU9ia6Jmz9Q" diagramKindId="org.eclipse.papyrus.uml.diagram.sequence">
+      <owner xmi:type="uml:Model" href="intensivecare.uml#_lgrCgL0kEeiEU9ia6Jmz9Q"/>
+    </styles>
+    <element xmi:type="uml:Interaction" href="intensivecare.uml#_lhHHYL0kEeiEU9ia6Jmz9Q"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_lhLY0L0kEeiEU9ia6Jmz9Q" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_lhLY0b0kEeiEU9ia6Jmz9Q" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_lhLY0r0kEeiEU9ia6Jmz9Q"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_lhLY070kEeiEU9ia6Jmz9Q" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner xmi:type="uml:Model" href="intensivecare.uml#_lgrCgL0kEeiEU9ia6Jmz9Q"/>
+    </styles>
+    <element xmi:type="uml:Model" href="intensivecare.uml#_lgrCgL0kEeiEU9ia6Jmz9Q"/>
+  </notation:Diagram>
+</xmi:XMI>

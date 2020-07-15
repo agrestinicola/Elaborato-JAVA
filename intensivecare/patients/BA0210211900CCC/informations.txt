@@ -1,0 +1,5 @@
+Codice paziente: BA0210211900CCC
+Nome: Aaa
+Cognome: Bbb
+Data di nascita: 01/01/1900
+Luogo di nascita: Ccc

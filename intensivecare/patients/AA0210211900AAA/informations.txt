@@ -1,0 +1,5 @@
+Codice paziente: AA0210211900AAA
+Nome: Aaa
+Cognome: Aaa
+Data di nascita: 01/01/1900
+Luogo di nascita: Aaa
